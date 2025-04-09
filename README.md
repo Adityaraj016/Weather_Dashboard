@@ -6,7 +6,7 @@ A modern weather dashboard web application that allows users to get real-time we
 
 ## 📸 Live Demo
 
-🔗 [Live App Link]((https://weatherdashboard-aditya016.netlify.app/))
+https://weatherdashboard-aditya016.netlify.app/
 
 ---
 
